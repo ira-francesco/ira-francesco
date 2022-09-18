@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @PapierKorb76
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5, CSS3, JS and much more to become a web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Howdy, I'm Papierkorb 🐦
+I am a computer science student in Italy!   
+If you need help or want to do a project contact me!
 
-<!---
-PapierKorb76/PapierKorb76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me 🔍
+I am a high school student in Southern Italy, 
+interested in Frontend Web Development
+and I'm learning technologies like React JS and Tailwind CSS.
+
+On this profile I will post all my websites and projects with the technologies that I'm learning.
+
+<details>
+<summary>Heading</summary>
+<!--All you need is a blank line-->
+
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
