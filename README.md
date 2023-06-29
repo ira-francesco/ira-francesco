@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Papierkorb </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Ira Francesco </h1>
 
 ![github_cover_banner](https://i.imgur.com/7YnpY5B.jpeg)
 
