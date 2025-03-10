@@ -63,6 +63,9 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img alt = "Next" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"/>
+  </a>
 </div>
 <br>
 <br>
