@@ -90,7 +90,7 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages]![GitHub Stats](https://github-readme-stats-holi0317.vercel.app/api?username=ira-francesco&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats-holi0317.vercel.app/api?username=ira-francesco&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 <!--  End Stats Cards -->
 
