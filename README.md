@@ -69,6 +69,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img  alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> 
   </a>
+  <a href="https://aws.amazon.com/it/" target="_blank" rel="noreferrer">
+      <img  alt="Amazon Web Services" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svgAWS"/> 
+  </a>
 </div>
 <br>
 <br>
