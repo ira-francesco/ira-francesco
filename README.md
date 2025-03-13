@@ -1,6 +1,6 @@
  <h1 style="color: #44AEFB;"> 👨🏻‍💻 Ira Francesco </h1>
 
-![github_cover_banner](https://imgur.com/a/5OU15Hw.jpeg)
+![github_cover_banner]([https://imgur.com/a/5OU15Hw.jpeg])
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a software developer. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life.
