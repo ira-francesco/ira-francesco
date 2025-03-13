@@ -22,7 +22,8 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,sass,git,npm,vscode,figma,canva&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,sass,git,npm,vscode,figma,canva&perline=6)](https://skillicons.dev)
+
 
 
 <!-- Statistics -->
