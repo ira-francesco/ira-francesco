@@ -72,6 +72,9 @@
   <a href="https://aws.amazon.com/it/" target="_blank" rel="noreferrer">
       <img  alt="Amazon Web Services" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
   </a>
+   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+      <img  alt="Node JS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> 
+  </a>
 </div>
 <br>
 <br>
